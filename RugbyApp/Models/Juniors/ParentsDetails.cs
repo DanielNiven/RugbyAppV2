@@ -15,6 +15,7 @@ namespace RugbyApp.Models.Juniors
         public string p1Relation { get; set; }
         public string p1Address { get; set; }
         public string p1PhoneNumber { get; set; }
+        public String p2Fname { get; set; }
         public string p2Sname { get; set; }
         public string p2Relation { get; set; }
         public string p2Address { get; set; }
