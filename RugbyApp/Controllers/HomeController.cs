@@ -15,13 +15,6 @@ namespace RugbyApp.Controllers
             return View();
         }
 
-        public ActionResult Details()
-        {
-            ViewBag.Message = "Juniors table";
-            var Juniors = db.Juniors;
-            return View(db.Juniors.ToList());
-        }
-
         public ActionResult Results()
         {
             ViewBag.Message = "Your contact page.";
