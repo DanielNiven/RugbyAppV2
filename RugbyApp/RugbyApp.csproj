@@ -192,7 +192,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\SkillsDevelopment.cshtml" />
     <Content Include="Views\Home\TrainingRecords.cshtml" />
-    <Content Include="Views\Juniors\Index.cshtml" />
+    <Content Include="Views\Juniors\View.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\Seniors\" />
