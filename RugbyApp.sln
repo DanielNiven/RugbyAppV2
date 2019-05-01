@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyApp", "RugbyApp\RugbyApp.csproj", "{7DC87C6D-93DD-4838-9CAF-11D9DBFF8144}"
 EndProject
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {835E6AB9-C8EF-45F0-89DC-82843C2DFFCA}
+		SolutionGuid = {DB59D6B9-71A1-48F7-9F90-AF34FCB38AC2}
 	EndGlobalSection
 EndGlobal
