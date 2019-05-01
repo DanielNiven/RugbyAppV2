@@ -19,7 +19,7 @@ namespace RugbyApp.Controllers
         {
             ViewBag.Message = "Juniors table";
             var Juniors = db.Juniors;
-            return View();
+            return View(db.Juniors.ToList());
         }
 
         public ActionResult Results()
