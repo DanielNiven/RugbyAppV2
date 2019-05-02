@@ -72,7 +72,11 @@ namespace RugbyApp.Controllers
             }
             return View(juniors);
         }
+<<<<<<< HEAD
         [HttpPost]
+=======
+
+>>>>>>> 1a8a5c7d5e49e457c64246ad12ef631a9de6088b
         public ActionResult Edit(JuniorsDetails juniors)
         {
             if(ModelState.IsValid)
@@ -83,6 +87,7 @@ namespace RugbyApp.Controllers
             }
             return View(juniors);
         }
+<<<<<<< HEAD
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -105,6 +110,9 @@ namespace RugbyApp.Controllers
             return RedirectToAction("Index");
         }
 
+=======
+        
+>>>>>>> 1a8a5c7d5e49e457c64246ad12ef631a9de6088b
 
     }
 }
