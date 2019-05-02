@@ -130,10 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\JuniorsController.cs" />
-<<<<<<< HEAD
     <Compile Include="Controllers\ParentsController.cs" />
-=======
->>>>>>> 1a8a5c7d5e49e457c64246ad12ef631a9de6088b
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -205,15 +202,13 @@
     <Content Include="Views\Juniors\Index.cshtml" />
     <Content Include="Views\Juniors\Details.cshtml" />
     <Content Include="Views\Juniors\Edit.cshtml" />
-<<<<<<< HEAD
+
     <Content Include="Views\Juniors\Delete.cshtml" />
     <Content Include="Views\Parents\Index.cshtml" />
     <Content Include="Views\Parents\Create.cshtml" />
     <Content Include="Views\Parents\Delete.cshtml" />
     <Content Include="Views\Parents\Details.cshtml" />
     <Content Include="Views\Parents\Edit.cshtml" />
-=======
->>>>>>> 1a8a5c7d5e49e457c64246ad12ef631a9de6088b
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\Seniors\" />
